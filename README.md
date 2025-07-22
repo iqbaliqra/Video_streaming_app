@@ -16,7 +16,7 @@ A modern **Video Streaming Web Application** with two panels – **Admin** and *
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 src/
 ├── assets/ # Static files like images, thumbnails
