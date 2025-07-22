@@ -34,7 +34,7 @@ src/
 
 ### 👤 User Panel
 - ✅ Signup & Login (with Firebase Auth)
-- 🔍 Video Search (by title/category)
+- 🔍 Video Search (by title)
 - 🎞️ Watch Videos (from Firebase Storage)
 - 📺 Recommended Videos
 - ⚙️ Profile View
