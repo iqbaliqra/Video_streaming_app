@@ -28,11 +28,6 @@ src/
 │ └── user/ # User-facing screens
 ├── router/ # Route guards for admin/user separation
 └── App.vue # Root component
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔑 Features
@@ -67,13 +62,13 @@ Before using the app, set up your Firebase project:
 ### Getting Started
 ## 1. Clone the Repository
 
-git clone https://github.com/your-username/video-streaming-app.git
-cd video-streaming-app
+- git clone https://github.com/your-username/video-streaming-app.git
+- cd video-streaming-app
 ## 2. Install Dependencies
 
-npm install
-3. Add Firebase Config
-Create a .env file with your Firebase credentials.
+- npm install
+## 3. Add Firebase Config
+-Create a firebase.ts file in src folder.
 
 ## 4. Run the Development Server
 
